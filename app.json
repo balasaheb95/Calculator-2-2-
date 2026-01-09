@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "Pune Calculator",
-    "slug": "cal-2-",
-    "version": "1.0.3",
+    "slug": "cal-2",
+    "version": "1.0.0",
     "android": {
       "package": "com.balasaheb.pune_calculator"
     },
@@ -10,15 +10,6 @@
       "eas": {
         "projectId": "8f3eb19e-5e3f-4651-855e-ed4b65f54e3b"
       }
-    },
-    "updates": {
-      "url": "https://u.expo.dev/8f3eb19e-5e3f-4651-855e-ed4b65f54e3b"
-    },
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
-    "updates": {
-       "url": "https://u.expo.dev/8f3eb19e-5e3f-4651-855e-ed4b65f54e3b"
     }
   }
 }
